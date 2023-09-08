@@ -1,1 +1,15 @@
+Documentation for TestCafe Login Page
 
+In Above project I created one JavaScript file (test.js) for writing the test cases.
+1) In above File i created test cases for Login Scenario.
+2) In login Scenario i created two test cases
+     i)  Login with Valid Scenario.
+     ii) Login with invalid Scenario.
+3) I created and succesfully test with chrome and edge browsers using below commands
+    for chorme in terminal  -  testcafe chrome test.js
+    for edge in terminal  -  testcafe edge test.js
+
+Challenges
+
+1) Iam new to javaScript and TestCafe, So i face many challenges to write the test cases in TestCafe.
+2) but i overcome all the challenges and give my best.
